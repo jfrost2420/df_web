@@ -37,6 +37,9 @@ module.exports.routes = {
   },
   '/test': {
     view: 'test/index'
+  },
+  '/test2': {
+    view: 'test2/index'
   }
 
   /*
